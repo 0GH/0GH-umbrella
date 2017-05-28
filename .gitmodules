@@ -1,0 +1,4 @@
+[submodule "0GH-design"]
+	path = 0GH-design
+	url = git@github.com:0GH/0GH-design.git
+	branch = .
